@@ -31,8 +31,15 @@ Course content will be available for students at course enrollment and students 
     * Logistic Regression 2
     * Quiz 3
  - Topic 4 - Decision Tree & Random Forest
-    * dasdsad 
+    * Decision Tree & Random Forest 1
+    * Decision Tree & Random Forest 2
+    * Decision Tree & Random Forest 3
+    * Decision Tree & Random Forest 4
+    * Quiz 4 
  - Topic 5 - Naive bayes/Support Vector Machine
-    * dasdsad
+    * Naive bayes/Support Vector Machine 1
+    * Naive bayes/Support Vector Machine 2
+    * Naive bayes/Support Vector Machine 3
+    * Quiz 5
  - Topic 6 - Scenario Based Activity
     * dasdsad
