@@ -21,7 +21,11 @@ Course content will be available for students at course enrollment and students 
     * Quiz 1 Materials
     * Quiz 1
  - Topic 2 - Non-linear Regression
-    * dasdsad
+    * Polynomial Regression
+    * Choosing the Right Model
+    * Polynomial Regression using Python
+    * Quiz 2 Materials
+    * Quiz 2
  - Topic 3 - Logistic Regression
     * dasdsad
  - Topic 4 - Decision Tree & Random Forest
