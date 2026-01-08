@@ -27,7 +27,9 @@ Course content will be available for students at course enrollment and students 
     * Quiz 2 Materials
     * Quiz 2
  - Topic 3 - Logistic Regression
-    * dasdsad
+    * Logistic Regression 1
+    * Logistic Regression 2
+    * Quiz 3
  - Topic 4 - Decision Tree & Random Forest
     * dasdsad 
  - Topic 5 - Naive bayes/Support Vector Machine
