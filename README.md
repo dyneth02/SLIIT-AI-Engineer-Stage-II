@@ -42,4 +42,4 @@ Course content will be available for students at course enrollment and students 
     * Naive bayes/Support Vector Machine 3
     * Quiz 5
  - Topic 6 - Scenario Based Activity
-    * dasdsad
+    * Suggest the most suitable algorithm for the following scenarios.
